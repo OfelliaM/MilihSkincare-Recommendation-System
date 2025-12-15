@@ -516,4 +516,5 @@ def main():
             st.metric("✨ Brands", product_df['brand'].nunique())
 
 if __name__ == "__main__":
+
     main()
